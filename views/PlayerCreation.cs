@@ -216,10 +216,7 @@ namespace DraftDay {
                     Player player =  new Player(name, age, strength, speed, id);
                     playerList.Add(player);
                 }
-                // for (int i = 0; reader.Read(); i++)
-                // {
-                    
-                // }
+               
                 
             } catch(Exception e){
                 Console.WriteLine(e.StackTrace);

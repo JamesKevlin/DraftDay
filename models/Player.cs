@@ -59,7 +59,7 @@ namespace DraftDay {
         }
         public string updatePlayer(Player player){
             connectDB();
-            Console.WriteLine(ToString());
+            
             string sql = "UPDATE Player" + 
                          " SET ID = " + getID() +
                              " ,Name = " + "'" + getName() + "'" +
@@ -67,7 +67,7 @@ namespace DraftDay {
                              " ,Strength = " + getStrength() +
                              " ,Speed = " + getSpeed() +
                          "\n WHERE ID = " + getID() + ";";
-            Console.WriteLine(sql);
+            
                          
             NpgsqlCommand cmd = new NpgsqlCommand(sql, conn);
             cmd.ExecuteNonQuery();

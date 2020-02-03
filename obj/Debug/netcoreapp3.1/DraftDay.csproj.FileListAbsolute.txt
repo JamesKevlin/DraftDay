@@ -1,0 +1,13 @@
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.csprojAssemblyReference.cache
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.AssemblyInfoInputs.cache
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.AssemblyInfo.cs
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay.deps.json
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay.runtimeconfig.json
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay.runtimeconfig.dev.json
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay.dll
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/DraftDay.pdb
+/home/james/Dev/ITDEV185/DraftDay/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.csproj.CopyComplete
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.dll
+/home/james/Dev/ITDEV185/DraftDay/obj/Debug/netcoreapp3.1/DraftDay.pdb
